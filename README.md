@@ -11,11 +11,11 @@ Purpose:	To convert a decimal number into any choice of base for e:g: base 2, 3,
 *	Uses STRATEGY PATTERN so that mapping algorithm of characters appearing in final result can be decided run-time
 
 Version:	1.0
-To Build:	Un-tar the archive to copy source code files in a folder. Execute 
-‘make all’ (assuming GNU C++ compiler presence)
+To Build:	Copy inc, src & Makefile in a folder maintaining the same naming / hieraarchy. 
+                Execute‘make all’ (assuming GNU C++ compiler). 
+		Outcome would be ConverAPP binary under the same folder
 
 To Execute:	Run ConverterAPP binary (currently executed on Linux)
-
 
 
 Sample Execution:
